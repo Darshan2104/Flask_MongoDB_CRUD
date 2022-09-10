@@ -2,7 +2,7 @@
 
 **Important Links :**
 ````
-[MongoDB](https://www.youtube.com/watch?v=qWYx5neOh2s)
+MongoDB : https://www.youtube.com/watch?v=qWYx5neOh2s
 ````
 
 **Pre-requisite :**
